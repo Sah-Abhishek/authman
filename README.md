@@ -477,15 +477,64 @@ MIT
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! I'd love to have your help in improving AuthMan. Here's how you can contribute:
 
-## Support
+### Steps to Contribute
 
-For issues, questions, or suggestions, please open an issue on the GitHub repository.
+1. Fork the repository on [GitHub](https://github.com/sah-abhishek/authman)
+2. Clone your forked repository
+   ```bash
+   git clone https://github.com/sah-abhishek/authman.git
+   cd authman
+   ```
+3. Create a new branch for your feature or bugfix
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. Make your changes and test thoroughly
+5. Commit your changes with clear messages
+   ```bash
+   git commit -m "Add feature: description of your changes"
+   ```
+6. Push to your forked repository
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+7. Submit a Pull Request to the main repository
+
+### Guidelines
+
+- Follow the existing code style and structure
+- Add tests for new features
+- Update documentation if needed
+- Keep commit messages clear and descriptive
+- One feature per pull request
+
+## Support & Contact
+
+### GitHub Issues
+
+For bug reports, feature requests, or issues, please open an issue on the [GitHub repository](https://github.com/abhishek-sah/authman/issues).
+
+### Get in Touch
+
+- **GitHub**: [@sah-abhishek](https://github.com/sah-abhishek)
+- **Email**: [abhisheksah3333@gmail.com](mailto:abhisheksah3333@gmail.com)
+- **Twitter**: [@abhish_x](https://x.com/abhish_x)
+
+Feel free to reach out if you have questions, suggestions, or just want to say hi!
+
+## Sponsorship
+
+If you find AuthMan helpful, consider supporting the project. Your support motivates me to keep improving and maintaining this package.
+
+---
+
+Made with ❤️ by Abhishek Sah
 
 ## Changelog
 
-### Version 1.0.0
+### Version 1.0.2
 - Initial release
 - Login and Signup components
 - Authentication service with token management
